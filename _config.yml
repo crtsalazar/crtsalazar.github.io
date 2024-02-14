@@ -18,9 +18,9 @@ email: 'work@crsalazar.com'
 description: "I'm a reporter, writer, and communications expert working at the intersection of technology and social innovation."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://crtsalazar.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-# twitter_username: 'jamigibbs'
-# github_username: 'jamigibbs'
-# medium_username: 'blog.jamigibbs.com'
+twitter_username: ''
+github_username: ''
+medium_username: ''
 
 # Build settings
 markdown: kramdown
