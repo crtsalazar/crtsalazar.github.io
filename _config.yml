@@ -98,7 +98,7 @@ admin_name: 'Cristian Salazar'
 enable_contact: false
 
 #### Phantom Navigation menu
-enable_nav: true
+enable_nav: false
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
