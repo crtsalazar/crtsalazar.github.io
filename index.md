@@ -1,3 +1,10 @@
+---
+layout: home
+pagination: 
+  enabled: true
+---
+## Markdown
+
 # Cristian Salazar
 
 ### I'm Cristian Salazar, a reporter, writer, and communications expert working at the intersection of technology and social innovation.
